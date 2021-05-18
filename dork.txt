@@ -1,5 +1,4 @@
-inurl:/.php?id=
-
+    inurl:/.php?id=
     about.php?cartID=
     accinfo.php?cartId=
     acclogin.php?cartID=
